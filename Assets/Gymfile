@@ -1,0 +1,5 @@
+export_options(
+    provisioningProfiles: {
+        "com.InfiniteHorizons.AviatorAdventure.OneSignalNotificationServiceExtension" => "3E6A4995-4FEC-459B-B509-20D1FC575F92"
+    }
+)
